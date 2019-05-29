@@ -25,7 +25,7 @@ SECRET_KEY = 'tcxep+r2%vfal_(37mn(63!7^!2j%5zc(^^y&5jc0=bdgi2bpx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'deora.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'deora.pythonanywhere.com', 'http://deorka96.pythonanywhere.com']
 
 
 # Application definition
